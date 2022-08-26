@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "e1cee185a5cacad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f850309a9fd3a8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Getting Started with NUnit and .NET Core.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22f74bcde3c662e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b785f57b50c5121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1257027f5f1dde82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa9d4569a2b52a34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66ff4c2fc8a8933e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e4fcd85658814b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b5b8758ea0b0edc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ec0d3f2c76139eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Getting Started with NUnit and .NET Core.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f8712d8874856579",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/Getting Started with NUnit and .NET Core.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3469101bf3ced535",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "560521758c365c3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Getting Started with NUnit and .NET Core.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66f850309a9fd3a8",
+  "lastOpenFiles": [
+    "Programming/CSharp NUnit Example.md",
+    "Programming/NUnit.md",
+    "Programming/Getting Started with NUnit and .NET Core.md",
+    "Programming/CS/MoneyTest.cs.md",
+    "Programming/CS/Money.cs.md"
+  ]
+}
