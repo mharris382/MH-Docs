@@ -1,3 +1,4 @@
+[[NUnit]]
 ```cs
 namespace NUnit.Samples.Money 
 {

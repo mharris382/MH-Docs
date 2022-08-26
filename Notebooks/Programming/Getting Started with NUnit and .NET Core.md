@@ -4,7 +4,7 @@
 
 Windows (PowerShell)
 --
-How to use NUnit in a standard .Net class library which doesn't rely on any external engine libraries like Unity or Godot
+How to use [[NUnit]] in a standard .Net class library which doesn't rely on any external engine libraries like Unity or Godot
 
 1. open powershell and navigate to directory where you want to place the solution
 2. use command `dotnet new sln`

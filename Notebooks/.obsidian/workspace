@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Getting Started with NUnit and .NET Core.md",
+            "file": "Programming/CS/Money.cs.md",
             "mode": "source",
             "source": false
           }
@@ -77,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Getting Started with NUnit and .NET Core.md",
+                "file": "Programming/CS/Money.cs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Getting Started with NUnit and .NET Core.md",
+                "file": "Programming/CS/Money.cs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Getting Started with NUnit and .NET Core.md"
+                "file": "Programming/CS/Money.cs.md"
               }
             }
           }
@@ -125,15 +125,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "66f850309a9fd3a8",
   "lastOpenFiles": [
-    "Programming/CSharp NUnit Example.md",
+    "Programming/CS/Money.cs.md",
+    "Programming/CS/MoneyTest.cs.md",
     "Programming/NUnit.md",
     "Programming/Getting Started with NUnit and .NET Core.md",
-    "Programming/CS/MoneyTest.cs.md",
-    "Programming/CS/Money.cs.md"
+    "Programming/CSharp NUnit Example.md"
   ]
 }
