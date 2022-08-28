@@ -10,6 +10,15 @@ Learning Objectives
 - Practice ability to iterate on separate parts of the game in parallel, in particular storytelling and gameplay. 
 
 
+Real World Development Problems
+--
+- [[Creating Emergent Gameplay]]
+- **Rapid Prototyping and Technical Debt**
+- **Gameplay and Storytelling**
+
+
+
+
 
 
 Goals

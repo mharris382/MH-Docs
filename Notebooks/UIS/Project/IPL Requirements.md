@@ -9,8 +9,8 @@ Requirements
 ==
 ### **Information Required to Complete Course Application**
 
--   **Site Supervisor**: Name, Title, Organization Name, Address, Phone Number
--   **Dates**: Internship/Project Start Date and End Date
+-   **[[Site Supervisor]]**: Name, Title, Organization Name, Address, Phone Number
+-   **[[Project Dates]]**: Internship/Project Start Date and End Date
     -   If your end date is later than the listed date below, you will need to complete the Extension Form.
     - -   **[[Position Description]]**: Must use format outlined in course application
 -   **[[Credit Hours & Internship Hours Calculation]]:** _Consult with academic advisor_

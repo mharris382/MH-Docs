@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "66f850309a9fd3a8",
+        "id": "46d9b983a900f1ca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UIS/Project/Internship and Prior Learning.md",
+            "file": "UIS/Project/Skills List.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 472.5
   },
   "right": {
     "id": "6e4fcd85658814b4",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UIS/Project/Internship and Prior Learning.md",
+                "file": "UIS/Project/Skills List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UIS/Project/Internship and Prior Learning.md",
+                "file": "UIS/Project/Skills List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UIS/Project/Internship and Prior Learning.md"
+                "file": "UIS/Project/Skills List.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1257027f5f1dde82",
   "lastOpenFiles": [
-    "UIS/Graduation.md",
-    "UIS/Gen Ed Requirements.md",
+    "UIS/Project/Learning & Goals/Goals.md",
     "UIS/Project/IPL Requirements.md",
-    "UIS/Project/Internship and Prior Learning.md",
-    "UIS/Project/Proposal Requirements/Secure UIS Supervisor.md",
+    "UIS/Project/Skills List.md",
+    "UIS/UIS-Notebook Overview.md",
+    "Notebooks-Overview.md",
+    "UIS/Project/Learning & Goals/Creating Emergent Gameplay.md",
     "UIS/Project/Proposal Requirements/Learning Objectives & Goals.md",
+    "UIS/Project/Internship and Prior Learning.md",
     "UIS/Project/Proposal Requirements/Experiences.md",
-    "UIS/Project/Proposal Requirements/Credit Hours & Internship Hours Calculation.md",
-    "UIS/Project/Proposal Requirements/Credit Distribution.md",
-    "UIS/Project/Proposal Requirements/Academic Courses.md"
+    "UIS/Project/Roles/Role Time Allocation.md"
   ]
 }
