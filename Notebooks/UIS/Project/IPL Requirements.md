@@ -1,4 +1,4 @@
-CRN 14521 IPL 301
+ CRN 14521 IPL 301
 Credit: 2.0-12.0
 Title: ECCE: Project Applied Learning
 

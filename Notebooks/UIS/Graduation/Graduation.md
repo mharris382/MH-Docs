@@ -29,3 +29,13 @@ Techincal Elective Categories
 - Media
 - Scientific, Parallel, and High Perfomance Computing
 - Distributed Systems, Networking, and Security
+
+Additional Credits
+--
+- [[AP Credits]]
+- Summer 2021 and Fall 2021 Internships
+- WPI classes which I did not recieve credit for
+
+
+[[UIS Courses]]
+--

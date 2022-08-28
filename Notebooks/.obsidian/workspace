@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UIS/Project/Skills List.md",
+            "file": "Planning/Project Ideas.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UIS/Project/Skills List.md",
+                "file": "Planning/Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UIS/Project/Skills List.md",
+                "file": "Planning/Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UIS/Project/Skills List.md"
+                "file": "Planning/Project Ideas.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "46d9b983a900f1ca",
   "lastOpenFiles": [
-    "UIS/Project/IPL Requirements.md",
-    "UIS/Project/Skills List.md",
-    "UIS/Project/Learning & Goals/Goals.md",
-    "UIS/UIS-Notebook Overview.md",
-    "Notebooks-Overview.md",
-    "UIS/Project/Learning & Goals/Creating Emergent Gameplay.md",
-    "UIS/Project/Proposal Requirements/Learning Objectives & Goals.md",
-    "UIS/Project/Internship and Prior Learning.md",
-    "UIS/Project/Proposal Requirements/Experiences.md",
-    "UIS/Project/Roles/Role Time Allocation.md"
+    "Planning/Modeling Project Ideas.md",
+    "Planning/Compressible Fluid Simulations.md",
+    "Planning/Project Ideas.md",
+    "Planning/Programming Project Ideas.md",
+    "Steam Eagles.md",
+    "UIS/Graduation/Graduation.md",
+    "UIS/Graduation/Gen Ed Requirements.md",
+    "UIS/Graduation/UIS Courses.md",
+    "[.md",
+    "UIS/Graduation/AP Credits.md"
   ]
 }
