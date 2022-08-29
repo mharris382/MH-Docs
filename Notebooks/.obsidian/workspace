@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Planning/Project Ideas.md",
+            "file": "UIS/Steam Eagles Stuf/Grid Visualization & Testing Scene.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/Project Ideas.md",
+                "file": "UIS/Steam Eagles Stuf/Grid Visualization & Testing Scene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning/Project Ideas.md",
+                "file": "UIS/Steam Eagles Stuf/Grid Visualization & Testing Scene.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning/Project Ideas.md"
+                "file": "UIS/Steam Eagles Stuf/Grid Visualization & Testing Scene.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "46d9b983a900f1ca",
   "lastOpenFiles": [
-    "Planning/Modeling Project Ideas.md",
-    "Planning/Compressible Fluid Simulations.md",
+    "UIS/Steam Eagles Stuf/Grid Unit Testing.md",
+    "UIS/Steam Eagles Stuf/images/Airspace Visualization in Testing Scene.png",
+    "UIS/Steam Eagles Stuf/Grid Visualization & Testing Scene.md",
+    "UIS/Steam Eagles Stuf/images/Grid Visualization in Testing Scene.png",
+    "UIS/Steam Eagles Stuf/images/Airspace Unit Testing Input.png",
+    "UIS/UIS-Notebook Overview.md",
+    "Notebooks-Overview.md",
     "Planning/Project Ideas.md",
-    "Planning/Programming Project Ideas.md",
-    "Steam Eagles.md",
-    "UIS/Graduation/Graduation.md",
-    "UIS/Graduation/Gen Ed Requirements.md",
-    "UIS/Graduation/UIS Courses.md",
-    "[.md",
-    "UIS/Graduation/AP Credits.md"
+    "Planning/Modeling Project Ideas.md",
+    "Planning/Compressible Fluid Simulations.md"
   ]
 }
