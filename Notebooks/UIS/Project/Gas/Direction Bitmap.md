@@ -1,3 +1,4 @@
+#prototypes 
 Notes for [[Internship and Prior Learning]]
 
 Direction |Cardinal | Binary | Decimal | Hex

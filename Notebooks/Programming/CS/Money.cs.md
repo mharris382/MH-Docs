@@ -1,3 +1,4 @@
+#examples #csharp #unit-testing
 [[NUnit]]
 ```cs
 namespace NUnit.Samples.Money 

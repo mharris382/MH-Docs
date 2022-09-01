@@ -1,3 +1,4 @@
+#uis #graduation 
 - [CSC 275: Computer Programming Concepts II](https://www.online.uillinois.edu/catalog/CourseDetail.asp?CourseID=18772)
 - [CSC 302: Discrete Structures](https://www.online.uillinois.edu/catalog/CourseDetail.asp?CourseID=16173)
 - [CSC 385: Data Structures and Algorithms](https://www.online.uillinois.edu/catalog/CourseDetail.asp?CourseID=7028)

@@ -1,3 +1,4 @@
+#project #examples 
 #auto-tiles #art
 Rule Tile Bitmaps Examples:
 --

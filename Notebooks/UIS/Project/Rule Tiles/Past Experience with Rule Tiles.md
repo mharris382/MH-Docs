@@ -1,4 +1,5 @@
-#auto-tiles #prior-learning
+
+#auto-tiles #prior-learning #prototypes 
 
 ## external links
 - [Senior Capstone Project](https://github.com/mharris382/Software-Engineering-Capstone)
