@@ -1,3 +1,4 @@
+#graduation #uis
 - [ ] Calculus I & II (AB)
 - [ ] Calculus II & III (BC)
 - [ ] Physics

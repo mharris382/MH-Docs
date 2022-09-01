@@ -1,3 +1,6 @@
+#uis #graduation 
+seealso [[UIS Courses]], [[Graduation]]
+
 The University of Illinois requires that all undergraduate students take [General Education](https://courses.illinois.edu/gened/DEFAULT/DEFAULT) - or "Gen Ed" - courses to gain and use broad knowledge beyond the specialized learning they will do in a major field of study. These Gen Ed requirements cover the kinds of knowledge all students should have: the humanities and arts, social and behavioral sciences, natural sciences and technology, quantitative reasoning, composition/writing, and cultural studies.
 
-General Education courses at Illinois are mindful of our students' diverse backgrounds, needs, and interests, and are an essential component of the transformative learning that prepares our graduates to become alumni who make a significant societal impact. These courses build students' abilities to think critically, solve problems, generate new ideas and create knowledge, make connections between academic disciplines, respect and understand differences, and develop as citizens and leaders.
+General Education courses at Illinois are mindful of our students' diverse backgrounds, needs, and interests, and are an essential component of the transformative learning that prepares our graduates to become alumni who make a significant societal impact. These courses build students' abilities to think critically, solve problems, generate new ideas and create knowledge, make connections between academic disciplines, respect and understand differences, and develop as citizens and leaders.#

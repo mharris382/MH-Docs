@@ -1,4 +1,4 @@
-
+#project 
 Design Skills
 --
 - experiment with possible technics for creating fun emergent gameplay and puzzles using interactive grids, dynamic objects, platforming, and unique fluid mechanics

@@ -1,3 +1,4 @@
+#project #prototypes #computer-science
 [[Programming Project Ideas]]
 Below show a number of different ways of abstractly representing gases or meta-info which may be useful for improving the overall quality gas simulation 
 

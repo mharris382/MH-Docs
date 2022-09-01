@@ -1,3 +1,4 @@
+#project #goals
 Learning Objectives
 ==
 - Improve my ability to develop gameplay through quick iteration cycles, rapid prototyping, and playtesting.  

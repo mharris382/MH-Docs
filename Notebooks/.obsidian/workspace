@@ -5,11 +5,13 @@
     "children": [
       {
         "id": "37feac01576629da",
+        "id": "1027a0f1fda76628",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
+            "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.5
+    "width": 383.5
   },
   "right": {
     "id": "6e4fcd85658814b4",
@@ -78,6 +80,7 @@
               "type": "backlink",
               "state": {
                 "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
+                "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +98,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
+                "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +122,7 @@
               "type": "outline",
               "state": {
                 "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md"
+                "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md"
               }
             }
           }
@@ -129,6 +134,7 @@
     "collapsed": true
   },
   "active": "37feac01576629da",
+  "active": "1027a0f1fda76628",
   "lastOpenFiles": [
     "Gas Simulation Research/First Iterations/Iterating on Gas Sources.md",
     "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
@@ -136,9 +142,18 @@
     "Gas Simulation Research/First Iterations/SteamController.gd.md",
     "Gas Simulation Research/First Iterations/physical inspired.md",
     "UIS/Project/Rule Tiles/Past Experience with Rule Tiles.md",
+    "UIS/Project/Rule Tiles/Rule Tile Prototypes.md",
+    "UIS/Project/Rule Tiles/Past Experience with Rule Tiles.md",
+    "UIS/Project/Rule Tiles/Rule Tile Bitmaps.md",
     "UIS/Project/Rule Tiles/Rule Tile Creation Tools.md",
     "UIS/Project/Rule Tiles/Rule Tile Bitmaps.md",
     "UIS/Project/Rule Tiles/Rule Tile Prototypes.md",
     "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md"
+    "UIS/Project/Gas/Gas Simulation - Cellular Automata.md",
+    "UIS/Project/Gas/Gas Simulation Prototypes.md",
+    "UIS/Proposals.md",
+    "UIS/Project/Learning & Goals/Creating Emergent Gameplay.md",
+    "UIS/Project/IPL Requirements.md",
+    "Planning/Modeling Project Ideas.md"
   ]
 }
