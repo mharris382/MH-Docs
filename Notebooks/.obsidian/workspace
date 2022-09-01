@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "46d9b983a900f1ca",
+        "id": "37feac01576629da",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UIS/Project/Rule Tiles/Rule Tile Creation Tools.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "827091cf9cceb6e1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "UIS/Project/Rule Tiles/Past Experience with Rule Tiles.md",
+            "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UIS/Project/Rule Tiles/Rule Tile Creation Tools.md",
+                "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UIS/Project/Rule Tiles/Rule Tile Creation Tools.md",
+                "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UIS/Project/Rule Tiles/Rule Tile Creation Tools.md"
+                "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md"
               }
             }
           }
@@ -140,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46d9b983a900f1ca",
+  "active": "37feac01576629da",
   "lastOpenFiles": [
-    "UIS/Project/Rule Tiles/Rule Tile Bitmaps.md",
-    "UIS/Project/Rule Tiles/Rule Tile Creation Tools.md",
-    "UIS/Project/Rule Tiles/Rule Tile Prototypes.md",
-    "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
-    "UIS/Project/Internship and Prior Learning.md",
-    "UIS/Project/Rule Tiles/images/Pasted image 20220830220500.png",
-    "UIS/Project/Gas/Gas Simulation - Cellular Automata.md",
+    "Gas Simulation Research/First Iterations/Iterating on Gas Sources.md",
+    "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
+    "Gas Simulation Research/First Iterations/Early Iteration Code.md",
+    "Gas Simulation Research/First Iterations/SteamController.gd.md",
+    "Gas Simulation Research/First Iterations/physical inspired.md",
     "UIS/Project/Rule Tiles/Past Experience with Rule Tiles.md",
-    "UIS/Proposals.md",
-    "UIS/UIS-Notebook Overview.md"
+    "UIS/Project/Rule Tiles/Rule Tile Creation Tools.md",
+    "UIS/Project/Rule Tiles/Rule Tile Bitmaps.md",
+    "UIS/Project/Rule Tiles/Rule Tile Prototypes.md",
+    "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md"
   ]
 }
