@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
+        "id": "37feac01576629da",
         "id": "1027a0f1fda76628",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stories/Characters and Factions (SE).md",
+            "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
+            "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +79,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/Characters and Factions (SE).md",
+                "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
+                "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +97,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stories/Characters and Factions (SE).md",
+                "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
+                "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +121,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stories/Characters and Factions (SE).md"
+                "file": "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md"
+                "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md"
               }
             }
           }
@@ -128,16 +133,22 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "37feac01576629da",
   "active": "1027a0f1fda76628",
   "lastOpenFiles": [
-    "Steph 9-3-2022.md",
-    "Daily Notes/9-3-2022.md",
-    "Daily Notes/Random Life Lessons/methods to tell someone what they are doing in a helpful way.md",
-    "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
+    "Gas Simulation Research/First Iterations/Iterating on Gas Sources.md",
+    "Gas Simulation Research/First Iterations/Iterating on Diffusion Algorithm.md",
+    "Gas Simulation Research/First Iterations/Early Iteration Code.md",
+    "Gas Simulation Research/First Iterations/SteamController.gd.md",
+    "Gas Simulation Research/First Iterations/physical inspired.md",
+    "UIS/Project/Rule Tiles/Past Experience with Rule Tiles.md",
     "UIS/Project/Rule Tiles/Rule Tile Prototypes.md",
     "UIS/Project/Rule Tiles/Past Experience with Rule Tiles.md",
     "UIS/Project/Rule Tiles/Rule Tile Bitmaps.md",
     "UIS/Project/Rule Tiles/Rule Tile Creation Tools.md",
+    "UIS/Project/Rule Tiles/Rule Tile Bitmaps.md",
+    "UIS/Project/Rule Tiles/Rule Tile Prototypes.md",
+    "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md"
     "UIS/Project/Gas/Gas Simulation - Cellular Automata.md",
     "UIS/Project/Gas/Gas Simulation Prototypes.md"
   ]
