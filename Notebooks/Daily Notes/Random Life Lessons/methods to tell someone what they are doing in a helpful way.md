@@ -1,0 +1,3 @@
+#life-lessons
+
+in order to  learn humans benefit from an objective mindset, however the more personal a topic is, the harder it is to stay objective.  Because of that you need to be careful when you want to help someone improve by pointing out what they are doing wrong.  Outright telling them they are wrong, makes it extremely personal, and only the most elightened and mentally stable individuals will be able to remain objective while being told that they are wrong. 

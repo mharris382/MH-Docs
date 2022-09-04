@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
+            "file": "Stories/Characters and Factions (SE).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
+                "file": "Stories/Characters and Factions (SE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
+                "file": "Stories/Characters and Factions (SE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md"
+                "file": "Stories/Characters and Factions (SE).md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1027a0f1fda76628",
   "lastOpenFiles": [
+    "Steph 9-3-2022.md",
+    "Daily Notes/9-3-2022.md",
+    "Daily Notes/Random Life Lessons/methods to tell someone what they are doing in a helpful way.md",
+    "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md",
     "UIS/Project/Rule Tiles/Rule Tile Prototypes.md",
     "UIS/Project/Rule Tiles/Past Experience with Rule Tiles.md",
     "UIS/Project/Rule Tiles/Rule Tile Bitmaps.md",
     "UIS/Project/Rule Tiles/Rule Tile Creation Tools.md",
     "UIS/Project/Gas/Gas Simulation - Cellular Automata.md",
-    "UIS/Project/Gas/Gas Simulation Prototypes.md",
-    "UIS/Proposals.md",
-    "UIS/Project/Learning & Goals/Creating Emergent Gameplay.md",
-    "UIS/Project/IPL Requirements.md",
-    "Planning/Modeling Project Ideas.md"
+    "UIS/Project/Gas/Gas Simulation Prototypes.md"
   ]
 }
