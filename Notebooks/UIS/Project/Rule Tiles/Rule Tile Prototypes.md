@@ -1,4 +1,4 @@
-#auto-tiles #art #prototypes 
+#auto-tiles #art #prototypes #share
 
 see also: [[Past Experience with Rule Tiles]]
 

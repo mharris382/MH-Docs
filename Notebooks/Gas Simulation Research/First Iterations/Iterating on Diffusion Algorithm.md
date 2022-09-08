@@ -4,84 +4,10 @@ seealso: [[SteamController.gd]]
 
 
 ### Fourth Attempt
-After showing my progress to several other developers, there was a suggestion to try making the resolution of the gas grid smaller to increase the detail.  However, in terms of the [[Steam Eagles|larger game]], I did not want to change the size of the wall tiles from 128 x 128.  This iteration I verified that I could make the gas grid a higher resolution, provided that resultion fit evenly into the larger size cells.  To test this I created a gas grid with tile sizes of 32x32 px while leaving the wall tiles at 128x128 px.  I then had to add some code which converted between the two sizes.   
-
-I was also able to make the micro optimization of only needing to check for adjacent wall tiles on sub-tiles that are on the edge of the wall grid.  This was able to be accomplished with some simple math.  **TODO: insert code snippets from this iteration**
+[[GasSim Iteration 4]]
 
 ### Third Attempt
-The main change between the third and second attemp was the use of the neighbor sorting class (shown below).  The c# equivalent to this code would use [List.Sort](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.sort?view=net-6.0) and the [IComparer interface](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1?view=net-6.0)
-
-
-The results of this iteration led me to believe that a _single_ cellular autotama algorithm is not enough to simulate fluid in a [[physical inspired]] manor.  
-
-```
-func _iterate_gas():
-	var visited = {}
-	var unvisited_tiles = { Vector2.ZERO: TileIDs.SOURCE }
-	
-	_iterate_blocks()
-	_iterate_sources()
-	
-	
-	var sorter = MySorter.new()
-	Blocks.block_tilemap = block_tilemap
-	Blocks.steam_tilemap = steam_tilemap
-	Blocks.steam_neighbor_total.clear()
-	
-	for cell in steam_tilemap.get_used_cells():
-		var steam = steam_tilemap.get_steamv(cell)
-		
-		if steam > 0:
-			var neighbors = steam_tilemap.get_neighbors(cell, block_tilemap) as Array
-			neighbors.sort_custom(MySorter, "sort_tiles")
-			
-			while neighbors.size() > 0:
-				var next = neighbors.pop_front()
-				if steam_tilemap.get_steamv(next) > steam:
-					continue
-					
-				steam_tilemap.modify_steam(next, 1)
-				steam_tilemap.modify_steam(cell, -1)
-				
-				Blocks.mark_dirty(next, true)
-				Blocks.mark_dirty(cell, true)
-				
-				steam = steam_tilemap.get_steamv(cell)
-```
-
-
-```
-class MySorter:
-	var steam_tilemap
-	var block_tilemap
-	
-	static func sort_tiles(a, b):
-		var aSteam = Blocks.steam_tilemap.get_steamv(a)
-		var bSteam = Blocks.steam_tilemap.get_steamv(b)
-		if a == b:
-			return get_neighbor_sum(a) > get_neighbor_sum(b)
-		return a > b
-	
-	
-	static func get_neighbor_sum(a):
-		if Blocks.steam_neighbor_total.has(a) :
-			return Blocks.steam_neighbor_total[a]
-		else:
-			var neighbors = get_neighbors(a, Blocks.block_tilemap)
-			var sum = 0
-			for neighbor in neighbors:
-				sum += Blocks.steam_tilemap.get_steamv(neighbor)
-			Blocks.steam_neighbor_total[a] = sum
-			return sum
-	static func get_neighbors(grid_position, block_tilemap):
-		var arr = []
-		for dir in SteamTilemap.DIRECTIONS_4:
-			var pos = grid_position+dir
-			if block_tilemap.get_cellv(pos) == -1:
-				arr.append(pos)
-		return arr
-```
-
+[[GasSim Iteration 3]]
 ### Second Attempt
 
 The first thing I addressed after the first prototype was to try to make the gas abide by conservation of matter.  

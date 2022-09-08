@@ -1,4 +1,4 @@
-#project #uis 
+#project #uis #share
 CRN 14521 IPL 301
 Credit: 2.0-12.0
 Title: ECCE: Project Applied Learning
@@ -22,5 +22,5 @@ Requirements
     -   **[[Credit Distribution|Determine how you will apply the credits you earn in this class.]]**  Will it be to fulfill ECCE Engagement/ Elective, General Elective, or both? If both, how many credit hours for each category? Ask your academic advisor if you are not sure.
 -   **5-6 [[Learning Objectives & Goals]]** (knowledge/skills expected to learn from experience).
 -   **[[Academic Courses]]/[[Experiences]]/[[Skills List]]**: Identify those relevant/considered as asset for experience.
--   **[[Secure UIS Supervisor]]**: Identify UIS faculty member willing to serve as UIS Supervisor. Students in majors listed below have UIS supervisor preassigned by their academic program.
+-   **[[UIS Supervisor]]**: Identify UIS faculty member willing to serve as UIS Supervisor. Students in majors listed below have UIS supervisor preassigned by their academic program.
     -   Computer Science/Information Systems Security: **Dr. Braynov** approves applications & makes assignment

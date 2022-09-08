@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
+        "id": "a99014da40ba0a75",
         "id": "1fa0d3c7c92cdfbf",
         "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "994a011babdfabca",
+        "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
+            "file": "IPL 301 Application/Official Proposal.md",
             "file": "Game Developement/Steam Eagles/Characters/Builder.md",
             "mode": "source",
             "source": false
@@ -40,6 +52,7 @@
             "state": {
               "type": "search",
               "state": {
+                "query": "tag:#project",
                 "query": "tag:#game-development",
                 "matchingCase": false,
                 "explainSearch": false,
@@ -61,6 +74,7 @@
       }
     ],
     "direction": "horizontal",
+    "width": 511.5
     "width": 300
   },
   "right": {
@@ -77,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IPL 301 Application/Official Proposal.md",
                 "file": "Game Developement/Steam Eagles/Characters/Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
@@ -94,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IPL 301 Application/Official Proposal.md",
                 "file": "Game Developement/Steam Eagles/Characters/Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
@@ -117,6 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "IPL 301 Application/Official Proposal.md"
                 "file": "Game Developement/Steam Eagles/Characters/Builder.md"
               }
             }
@@ -128,8 +145,19 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "994a011babdfabca",
   "active": "1fa0d3c7c92cdfbf",
   "lastOpenFiles": [
+    "IPL 301 Application/Learning & Goals/Creating Emergent Gameplay.md",
+    "IPL 301 Application/Learning Objectives & Goals.md",
+    "IPL 301 Application/Official Proposal.md",
+    "IPL 301 Application/PROPOSED LEARNING OBJECTIVES.md",
+    "UIS/Project/Internship and Prior Learning.md",
+    "IPL 301 Application/Drafting/IPL Requirements.md",
+    "IPL 301 Application/Drafting/Position Description.md",
+    "IPL 301 Application/Drafting/Project Dates.md",
+    "IPL 301 Application/Drafting/UIS Supervisor.md",
+    "IPL 301 Application/Drafting/Site Supervisor.md"
     "Game Developement/Steam Eagles/Characters/Transporter.md",
     "Game Developement/Steam Eagles/Factions/Steam Eagles (Nomadic Separatist Faction).md",
     "Game Developement/Steam Eagles/Story (SE).md",
