@@ -1,4 +1,4 @@
-#uis #graduation #project 
+#uis #graduation #project #share
 [IPL](https://www.uis.edu/ipl/projects)
 ==
 For some students, it is possible to do a Project instead of a traditional internship. The Project is very independent in nature, requiring good organizational skills and attention to self-imposed deadlines. Projects should relate to your major and must be approved by both the **student’s department** and **an IPL Coordinator**.

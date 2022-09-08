@@ -1,12 +1,26 @@
 {
   "collapse-filter": false,
-  "search": "path:UIS",
+  "search": "path:\"IPL 301 Application\"",
   "showTags": false,
-  "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "path:\"IPL 301 Application\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#uis",
+      "color": {
+        "a": 1,
+        "rgb": 65450
+      }
+    },
     {
       "query": "tag:#prototypes",
       "color": {
@@ -20,32 +34,18 @@
         "a": 1,
         "rgb": 11657298
       }
-    },
-    {
-      "query": "tag:#uis",
-      "color": {
-        "a": 1,
-        "rgb": 65450
-      }
-    },
-    {
-      "query": "tag:#project",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.71039325842697,
+  "lineSizeMultiplier": 1.68286516853933,
   "collapse-forces": false,
-  "centerStrength": 0.449404761904762,
-  "repelStrength": 12.5595238095238,
-  "linkStrength": 1,
-  "linkDistance": 224,
-  "scale": 0.8445563703048196,
+  "centerStrength": 0,
+  "repelStrength": 11.25,
+  "linkStrength": 0.574404761904762,
+  "linkDistance": 500,
+  "scale": 0.11121729979322806,
   "close": false
 }

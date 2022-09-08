@@ -1,4 +1,4 @@
-#project #auto-tiles
+#project #auto-tiles #share
 see also: [[Rule Tile Prototypes]], [[Rule Tile Bitmaps]]
 
 Problem: rule tiles are extremely useful, and help speed up iteration times for level design, playtesting, and game design.  Without rule tiles the level's art elements and the level's physical layout are fundamentally tied together.  

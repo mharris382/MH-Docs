@@ -1,0 +1,6 @@
+- case studies indicate what the system does well and what it does badly
+- what questions are we asking with this project?
+	- what knowledge exists already
+	- what knowledge doesn't exist
+	- what could be done using this knowledge
+- **Can physically inspired compressible fluid simulation be deployed into a video game enviornment as novel mechanics which tell stories?**

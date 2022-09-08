@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1027a0f1fda76628",
+        "id": "a99014da40ba0a75",
         "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "994a011babdfabca",
+        "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/9-3-2022.md",
+            "file": "IPL 301 Application/Official Proposal.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 511.5
   },
   "right": {
     "id": "6e4fcd85658814b4",
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/9-3-2022.md",
+                "file": "IPL 301 Application/Official Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/9-3-2022.md",
+                "file": "IPL 301 Application/Official Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/9-3-2022.md"
+                "file": "IPL 301 Application/Official Proposal.md"
               }
             }
           }
@@ -128,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1027a0f1fda76628",
+  "active": "994a011babdfabca",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Pasted image 20220903214058.png",
-    "Programming/Rider Shortcuts/Refactoring Shortcuts.md",
-    "Programming/CSharp NUnit Example.md",
-    "Stories/Characters and Factions (SE).md",
-    "Notebooks-Overview.md",
-    "Daily Notes/Steph 9-3-2022.md",
-    "Daily Notes/9-3-2022.md",
-    "Daily Notes/Random Life Lessons/methods to tell someone what they are doing in a helpful way.md",
-    "UIS/Project/Rule Tiles/Rule Tiles - Iteration 2.md"
+    "IPL 301 Application/Learning & Goals/Creating Emergent Gameplay.md",
+    "IPL 301 Application/Learning Objectives & Goals.md",
+    "IPL 301 Application/Official Proposal.md",
+    "IPL 301 Application/PROPOSED LEARNING OBJECTIVES.md",
+    "UIS/Project/Internship and Prior Learning.md",
+    "IPL 301 Application/Drafting/IPL Requirements.md",
+    "IPL 301 Application/Drafting/Position Description.md",
+    "IPL 301 Application/Drafting/Project Dates.md",
+    "IPL 301 Application/Drafting/UIS Supervisor.md",
+    "IPL 301 Application/Drafting/Site Supervisor.md"
   ]
 }

@@ -1,4 +1,4 @@
-#game-design #project
+#game-design #project #share #goals 
 ## Game Design Overview
 
 Game Genre: **Co-op 2D Puzzle Platformer**
@@ -27,7 +27,7 @@ P2P | *Yes (Tentative)*
 
 
 ## Development Methodology Overview
-
+so far primarily rapid prototyping
 
 
 ## Org Chart
