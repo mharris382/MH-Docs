@@ -1,0 +1,5 @@
+
+# Puzzle Mechanic Prototype
+The important part for level designing will be designing the level in such a way that the players are able to reasonably figure out the solution. Since there is no way to enforce that the level solution makes sense and is intuitive we need to figure out a way to guide the players towards the solution. In my example I'm using the them of support beams in the name (so the player is thinking about what support beams might look like), and I gave them the placement of the beams with pieces missing. The beams are spaced evenly apart, which fits with the idea that these are structural supports for the ship. In the actual level, i tried to place the materials (blocks needed for solution) look like a stack of replacement beams. We could easily attach a message to each level which helps with indirect leading.
+
+![[Pasted image 20220902220437.png]]![[Pasted image 20220902222139.png]]
