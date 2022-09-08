@@ -1,27 +1,15 @@
 {
   "main": {
-    "id": "0792b0c16b1e7b3e",
+    "id": "d8cf66953e19d597",
     "type": "split",
     "children": [
       {
-        "id": "a99014da40ba0a75",
-        "id": "1fa0d3c7c92cdfbf",
+        "id": "f04160265067d7df",
         "type": "leaf",
-        "dimension": 50,
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "994a011babdfabca",
-        "type": "leaf",
-        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IPL 301 Application/Official Proposal.md",
-            "file": "Game Developement/Steam Eagles/Characters/Builder.md",
+            "file": "Daily Notes/2022-09-08.md",
             "mode": "source",
             "source": false
           }
@@ -31,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6708a1ce7b0ee978",
+    "id": "c9d39ea2ca9c4800",
     "type": "split",
     "children": [
       {
-        "id": "b364e480e403f160",
+        "id": "d2d9928ef5eddec2",
         "type": "tabs",
         "children": [
           {
-            "id": "3bbea20e1f4f2767",
+            "id": "16ddac1dfc6e0b2d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,13 +35,12 @@
             }
           },
           {
-            "id": "0bd97cb505d20740",
+            "id": "f572ddaeba85d6e7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#project",
-                "query": "tag:#game-development",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +50,7 @@
             }
           },
           {
-            "id": "3aeac75fa3681ca1",
+            "id": "023e5e9c1960301c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -74,25 +61,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511.5
     "width": 300
   },
   "right": {
-    "id": "b9afac561d37f44c",
+    "id": "c5257ea572c340bc",
     "type": "split",
     "children": [
       {
-        "id": "9a533bc262d50d2f",
+        "id": "0d4c44fae9cf4f15",
         "type": "tabs",
         "children": [
           {
-            "id": "6484f1b519eeb065",
+            "id": "a6c82aff833a70f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPL 301 Application/Official Proposal.md",
-                "file": "Game Developement/Steam Eagles/Characters/Builder.md",
+                "file": "Daily Notes/2022-09-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,20 +89,19 @@
             }
           },
           {
-            "id": "993ad84cdb564014",
+            "id": "12382ffc9bf0a312",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IPL 301 Application/Official Proposal.md",
-                "file": "Game Developement/Steam Eagles/Characters/Builder.md",
+                "file": "Daily Notes/2022-09-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cdea8fc035beb3a2",
+            "id": "ffb7b5689789611b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,13 +112,12 @@
             }
           },
           {
-            "id": "b874dd9021e96680",
+            "id": "8321024230e3b65f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "IPL 301 Application/Official Proposal.md"
-                "file": "Game Developement/Steam Eagles/Characters/Builder.md"
+                "file": "Daily Notes/2022-09-08.md"
               }
             }
           }
@@ -145,28 +128,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "994a011babdfabca",
-  "active": "1fa0d3c7c92cdfbf",
+  "active": "16ddac1dfc6e0b2d",
   "lastOpenFiles": [
-    "IPL 301 Application/Learning & Goals/Creating Emergent Gameplay.md",
-    "IPL 301 Application/Learning Objectives & Goals.md",
-    "IPL 301 Application/Official Proposal.md",
-    "IPL 301 Application/PROPOSED LEARNING OBJECTIVES.md",
-    "UIS/Project/Internship and Prior Learning.md",
-    "IPL 301 Application/Drafting/IPL Requirements.md",
-    "IPL 301 Application/Drafting/Position Description.md",
-    "IPL 301 Application/Drafting/Project Dates.md",
-    "IPL 301 Application/Drafting/UIS Supervisor.md",
-    "IPL 301 Application/Drafting/Site Supervisor.md"
-    "Game Developement/Steam Eagles/Characters/Transporter.md",
-    "Game Developement/Steam Eagles/Factions/Steam Eagles (Nomadic Separatist Faction).md",
-    "Game Developement/Steam Eagles/Story (SE).md",
-    "Game Developement/Steam Eagles/Steam Eagles Overview.md",
-    "Game Developement/Steam Eagles/Factions/Coalions (Fascist Military Faction).md",
-    "Game Developement/Steam Eagles/Game Design/Ammo Dependent and Ammo Independent.md",
-    "Game Developement/Steam Eagles/Game Design/Tools (SE).md",
-    "Game Developement/Steam Eagles/Reflections/Reflection - Game Jam Submission.md",
-    "Game Developement/Steam Eagles/Reflections/Practiced Project Management.md",
-    "Game Developement/Steam Eagles/Game Design/Gameplay (SE).md"
+    "Game Developement/Steam Eagles/Steam Eagles Overview.md"
   ]
 }
