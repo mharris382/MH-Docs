@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f04160265067d7df",
+        "id": "b862cd14c1840f4f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2022-09-08.md",
+            "file": "IPL 301 Application/Credits/Academic Courses.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-09-08.md",
+                "file": "IPL 301 Application/Credits/Academic Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-09-08.md",
+                "file": "IPL 301 Application/Credits/Academic Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,19 +117,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-09-08.md"
+                "file": "IPL 301 Application/Credits/Academic Courses.md"
               }
             }
+          },
+          {
+            "id": "106b225c126a9885",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "16ddac1dfc6e0b2d",
+  "active": "b862cd14c1840f4f",
   "lastOpenFiles": [
-    "Game Developement/Steam Eagles/Steam Eagles Overview.md"
+    "IPL 301 Application/Official Proposal.md",
+    "IPL 301 Application/Untitled.md",
+    "IPL 301 Application/Drafting/Skills List.md",
+    "IPL 301 Application/Credits/Academic Courses.md",
+    "IPL 301 Application/Drafting/Experiences.md",
+    "IPL 301 Application/Drafting/Position Description.md",
+    "IPL 301 Application/Learning Objectives & Goals.md",
+    "IPL 301 Application/PROPOSED LEARNING OBJECTIVES.md",
+    "Gas Simulation Research/First Iterations/physical inspired.md",
+    "IPL 301 Application/Drafting/Site Supervisor.md"
   ]
 }
