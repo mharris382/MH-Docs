@@ -2,22 +2,22 @@
 
 see also: [[IPL Requirements]],[[Goals]], [[Project Dates]], [[Academic Courses]], [[UIS Supervisor]], [[Site Supervisor]]
 
-- [x] Page 1: [[PROJECT COURSE CREDIT REQUIREMENTS]]
+- [x] Page 1: PROJECT COURSE CREDIT REQUIREMENTS]
 	- [x] Course Information
 	- [x] Student Information
-	- [ ] Internship Project Information
-	- [ ] Credit Hours and Internship Hours
-- [ ] Page 2: [[IPL 301 PROJECT COURSE INFORMATION]]
-- [ ] Page 3: [[INTERNSHIP PROJECT DESCRPTION]]
-- [ ] Page 4: [[PROPOSED LEARNING OBJECTIVES]]
-- [ ] Page 5: [[STUDENT AGREEMENT]]
+	- [x] Internship Project Information
+	- [x] Credit Hours and Internship Hours
+- [x] Page 2: IPL 301 PROJECT COURSE INFORMATION
+- [x] Page 3: INTERNSHIP PROJECT DESCRPTION
+- [x] Page 4: PROPOSED LEARNING OBJECTIVES
+- [x] Page 5: STUDENT AGREEMENT
 
-Prior Art Review
+[[Prior Art Review]]
 - noita: 
 - squingle: game mechanic
 - microdose VR: android jones
 
-Iteration Components:
+Iterations:
 - content creation
 - documentation about the content
 - documentation about the creation process
@@ -62,10 +62,6 @@ Zip Code: 627043
 Country: USA
 
 Field Supervisor's Name: [Anshul Pendse](https://www.linkedin.com/in/apendse/)
-TItle: Program Advisor
-Phone: 
-E-mail: 
-Website:
 ![[Pasted image 20220907165705.png]]
 
 
