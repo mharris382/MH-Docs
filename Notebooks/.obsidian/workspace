@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a4ed95585fb7da02",
+        "id": "66040541909420fd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-09-12.md",
+            "file": "Daily Notes/2022-09-12.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 422.49999809265137
   },
   "right": {
     "id": "c5257ea572c340bc",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "Daily Notes/2022-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-12.md",
+                "file": "Daily Notes/2022-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09-12.md"
+                "file": "Daily Notes/2022-09-12.md"
               }
             }
           },
@@ -129,24 +129,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 255.90757751464844,
-    "collapsed": true
+    "width": 255.90757751464844
   },
-  "active": "a4ed95585fb7da02",
+  "active": "16ddac1dfc6e0b2d",
   "lastOpenFiles": [
+    "Gas Simulation Research/Iterations/GasSim Iteration 6.md",
+    "Gas Simulation Research/Iterations/GasSim Iterations.md",
+    "Gas Simulation Research/Iterations/GasSim Iteration 5.md",
+    "Excalidraw/GasSim Iteration 6 - Happy Accident.excalidraw.md",
+    "Gas Simulation Research/Iterations/Pasted image 20220912162523.png",
+    "Daily Notes/2022-09-12.md",
     "Gas Simulation Research/Gas Simulation - Cellular Automata.md",
     "Gas Simulation Research/Celular Automata Fluid Theory.md",
     "Notebooks-Overview.md",
-    "Gas Simulation Research/Research/images/Pasted image 20220911004541.png",
-    "Gas Simulation Research/Research/Gas Simulation Tech Research.md",
-    "Gas Simulation Research/Research/images/Pasted image 20220911004451.png",
-    "2022-09-11.md",
-    "Daily Notes/2022-09-10.md",
-    "Gas Simulation Research/Research/Level-set methods (LSM).md",
-    "Gas Simulation Research/Research/MAC Grid (Marker and Cell).md"
+    "Gas Simulation Research/Research/images/Pasted image 20220911004541.png"
   ]
 }

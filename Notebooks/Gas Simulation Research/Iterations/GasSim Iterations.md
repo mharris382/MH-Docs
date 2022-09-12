@@ -8,3 +8,5 @@ see also: [[Gas Simulation Prototypes]], [[Learning Objectives & Goals]], [[Iter
 - [[GasSim Iteration 3]]: Conservation of Matter
 - [[GasSim Iteration 4]]: Multiple Grid Resolutions
 - [[GasSim Iteration 5]]:
+- [[GasSim Iteration 6]]
+  
