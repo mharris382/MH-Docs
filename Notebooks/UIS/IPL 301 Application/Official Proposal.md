@@ -2,6 +2,9 @@
 
 see also: [[IPL Requirements]],[[Goals]], [[Project Dates]], [[Academic Courses]], [[UIS Supervisor]], [[Site Supervisor]]
 
+# APPROVED!!!
+
+![[IPL 300301 Course Application.pdf]]
 - [x] Page 1: PROJECT COURSE CREDIT REQUIREMENTS]
 	- [x] Course Information
 	- [x] Student Information

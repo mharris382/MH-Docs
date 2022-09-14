@@ -10,7 +10,7 @@ ________
 
 
 - Portfolio Project: [[Steam Eagles]]
-- Research Project: [[Gas Simulation - Cellular Automata]]
+- Research Project: [[Gas Sim - Cellular Automata]]
 	- [[Gas Simulation Prototypes]]
 - Research Project: [[Rule Tile Creation Tools]]
 	- [[Rule Tile Prototypes]]

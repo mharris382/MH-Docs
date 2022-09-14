@@ -1,5 +1,5 @@
 %%
-#fluid-simulation #prototypes #project #iterations
+#fluid-simulation #prototypes #project #iterations #cellular-automata 
 seealso: [[GasSim Iterations]], [[Iterating on Diffusion Algorithm]]
 %%
 # Iteration 3: Conservation of Matter

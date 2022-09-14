@@ -1,4 +1,11 @@
-#fluid-simulation #project #iterations #prototypes #cellular-automata 
+%%
+#fluid-simulation #prototypes #project #iterations #cellular-automata 
+seealso: [[GasSim Iterations]]
+%%
+# seealso:
+![[Gas Sim Pt.5.3.x]]
+
+---
 
 
 # Goal
