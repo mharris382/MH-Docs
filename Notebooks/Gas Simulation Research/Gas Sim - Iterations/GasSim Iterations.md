@@ -13,6 +13,8 @@ seealso: [[Gas Sim - Cellular Automata]], [[Celular Automata Fluid Theory]], [[R
 - [[GasSim Iteration 6]]: Happy Accidents
 - [[GasSim Iteration 8]]: Sorting Neighbors
 - [[GasSim Iteration 9]]: Managing Chaos
+- [[GasSim Iteration 10]]: Sinks
+- 
 
 
 
