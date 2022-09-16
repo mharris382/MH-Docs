@@ -6,6 +6,7 @@ seealso: [[GasSim Iterations]]
 previous iteration: [[GasSim Iteration 10]]
 next iteration: [[GasSim Iteration 12]]
 
+related iteration: [[GasSim Iteration 13]]
 # Random Idea
 I wanted to try adding an additional rule to the rule created in [[GasSim Iteration 10|Iteration 10]]
 
@@ -18,8 +19,11 @@ Hypothesis: prepending this rule to the previous rule will prevent the gas from 
 
 
 ## Video/Demo
-![[GasSim_Pt.10.1-2022-09-15_15-51-33.mp4]]
-![[GasSim_Pt.10.2-2022-09-15_16-14-46.mp4]]
+| Not Random | Random |
+| ---------- | ------ |
+|![[GasSim_Pt.10.1-2022-09-15_15-51-33.mp4]] | ![[GasSim_Pt.10.2-2022-09-15_16-14-46.mp4]] |
+
+
 ## Code
 
 

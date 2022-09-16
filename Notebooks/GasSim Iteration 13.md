@@ -3,8 +3,8 @@
 seealso: [[GasSim Iterations]]
 %%
 # Iteration 13: 
-previous iteration: [[GasSim Iteration 12]]
-next iteration: 
+previous iteration: [[GasSim Iteration 12]], [[GasSim Iteration 11]]
+next iteration: [[GasSim Iteration 14]]
 
 # Goal 
 try biasing upwards direction
@@ -51,6 +51,7 @@ in this test the bias values were hard coded.  We could add configuration variab
 
 # Reflection
 biasing up or down gives more believability to the gases behavior, without making the behavior look overly mechanical.
+This is extremely close to a behavior which I am satisfied with.  All that remains is to make the behavior work at all diffusion pressures instead of just at zero 
 
 ### What was learned?
 baising randomness can produce a more natural feel to the movements
