@@ -13,11 +13,17 @@ seealso: [[Gas Sim - Cellular Automata]], [[Celular Automata Fluid Theory]], [[R
 - [[GasSim Iteration 6]]: Happy Accidents
 - [[GasSim Iteration 8]]: Sorting Neighbors
 - [[GasSim Iteration 9]]: Managing Chaos
-- [[GasSim Iteration 10]]: Sinks
-- 
+- [[GasSim Iteration 11]]: Diffusion Direction (Random OR Biased)
+- [[GasSim Iteration 12]]:  Neighbor Averages
+- [[GasSim Iteration 13]]: Diffusion (Almost) Done
+- [[GasSim Iteration 14]]: Sinks (Finally)
+- [[GasSim Iteration 15]]
 
-
-
-### Missing Iterations
-this iteration seems to be missing parts of it's information. It's possible I skipped this one
+### Incomplete/Partial Iterations
+these iteration seems to be missing parts of the information for some reason.  I may have skipped
 - [[GasSim Iteration 7]]: 
+- [[GasSim Iteration 10]]: 
+
+
+
+

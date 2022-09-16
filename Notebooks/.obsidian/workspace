@@ -7,23 +7,9 @@
         "id": "8211d7e383ac663a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "video",
           "state": {
-            "file": "IndieGameBusiness Digital Events.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "13f9a8d4201927aa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 6.md",
-            "mode": "source",
-            "source": false
+            "file": "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.1-2022-09-16_19-35-05.mp4"
           }
         }
       }
@@ -89,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IndieGameBusiness Digital Events.md",
+                "file": "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.1-2022-09-16_19-35-05.mp4",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IndieGameBusiness Digital Events.md",
+                "file": "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.1-2022-09-16_19-35-05.mp4",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IndieGameBusiness Digital Events.md"
+                "file": "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.1-2022-09-16_19-35-05.mp4"
               }
             }
           },
@@ -149,17 +135,17 @@
     "width": 255.90757751464844,
     "collapsed": true
   },
-  "active": "16ddac1dfc6e0b2d",
+  "active": "8211d7e383ac663a",
   "lastOpenFiles": [
-    "assets/images/Pasted image 20220916180723.png",
-    "IndieGameBusiness Digital Events.md",
-    "Daily Notes/2022-09-16.md",
-    "Untitled.md",
-    "Gas Simulation Research/README - Gas Sim.md",
-    "Notebooks-Overview.md",
-    "Daily Notes/2022-09-13.md",
+    "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.2-2022-09-16_19-40-46.mp4",
+    "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.1-2022-09-16_19-35-05.mp4",
+    "Gas Simulation Research/Gas Sim - Iterations/GasSim Iterations.md",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 10.md",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 15.md",
     "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 14.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 13.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 6.md"
+    "2022-09-16.md",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 6.md",
+    "IndieGameBusiness Digital Events.md",
+    "assets/images/Pasted image 20220916180723.png"
   ]
 }
