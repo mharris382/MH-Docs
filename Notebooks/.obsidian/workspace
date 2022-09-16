@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gas Simulation Research/README - Gas Sim.md",
+            "file": "IndieGameBusiness Digital Events.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gas Simulation Research/README - Gas Sim.md",
+                "file": "IndieGameBusiness Digital Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gas Simulation Research/README - Gas Sim.md",
+                "file": "IndieGameBusiness Digital Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gas Simulation Research/README - Gas Sim.md"
+                "file": "IndieGameBusiness Digital Events.md"
               }
             }
           },
@@ -149,17 +149,17 @@
     "width": 255.90757751464844,
     "collapsed": true
   },
-  "active": "8211d7e383ac663a",
+  "active": "16ddac1dfc6e0b2d",
   "lastOpenFiles": [
-    "Notebooks-Overview.md",
+    "assets/images/Pasted image 20220916180723.png",
+    "IndieGameBusiness Digital Events.md",
+    "Daily Notes/2022-09-16.md",
     "Untitled.md",
+    "Gas Simulation Research/README - Gas Sim.md",
+    "Notebooks-Overview.md",
     "Daily Notes/2022-09-13.md",
     "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 14.md",
     "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 13.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 6.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 5.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 4.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 11.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 12.md"
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 6.md"
   ]
 }
