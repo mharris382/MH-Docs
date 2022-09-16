@@ -57,6 +57,15 @@ This is extremely close to a behavior which I am satisfied with.  All that remai
 baising randomness can produce a more natural feel to the movements
 
 # Where to go now
-really the last thing I want to do now is get the gas to fully diffuse.   I want to try something similar to the average used in [[GasSim Iteration 12]] but use a range comparison instead
-
+really the last thing I want to do now is get the gas to fully diffuse at every air pressure not just low air pressures.  
 [[GasSim Iteration 14]]
+```ad-tip
+title: Idea
+collapse: closed
+
+something similar to [[GasSim Iteration 5]], because while it diffused slowly, this version was able to diffuse completely.
+
+### Iteration 5 Video
+![[2022-09-10_23-12-23_Trim (2).mp4]]
+```
+
