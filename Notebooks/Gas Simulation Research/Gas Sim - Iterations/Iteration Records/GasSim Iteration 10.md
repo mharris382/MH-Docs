@@ -3,8 +3,8 @@
 seealso: [[GasSim Iterations]]
 %%
 # Iteration 10: Sinks
-previous iteration: [[GasSim Iteration 9]]
-next iteration: [[GasSim Iteration 11]]
+previous iteration: [[GasSim Iteration 9 - Managing Chaos]]
+next iteration: [[GasSim Iteration 11 - Diffusion Direction (Random OR Biased)]]
 
 # Goal 
 would like to experiment with the idea of creating air currents by having source and sink in the same area.  We currently only have sources putting gas into the simulation.  We now need to add sinks to pull gas out of the simulation.

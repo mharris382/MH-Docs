@@ -34,5 +34,12 @@
       ],
       "key": "A"
     }
+  ],
+  "editor:rename-heading": [],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
   ]
 }

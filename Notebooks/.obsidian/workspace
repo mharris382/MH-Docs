@@ -7,9 +7,23 @@
         "id": "8211d7e383ac663a",
         "type": "leaf",
         "state": {
-          "type": "video",
+          "type": "markdown",
           "state": {
-            "file": "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.1-2022-09-16_19-35-05.mp4"
+            "file": "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 15 - Diffusion Done.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "348718d7df7a88d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 8 - Sorting Neighbors.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -75,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.1-2022-09-16_19-35-05.mp4",
+                "file": "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 8 - Sorting Neighbors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.1-2022-09-16_19-35-05.mp4",
+                "file": "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 8 - Sorting Neighbors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.1-2022-09-16_19-35-05.mp4"
+                "file": "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 8 - Sorting Neighbors.md"
               }
             }
           },
@@ -135,17 +149,17 @@
     "width": 255.90757751464844,
     "collapsed": true
   },
-  "active": "8211d7e383ac663a",
+  "active": "348718d7df7a88d3",
   "lastOpenFiles": [
-    "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.2-2022-09-16_19-40-46.mp4",
-    "Gas Simulation Research/Gas Sim - Iterations/media/GasSim_Pt.14.1-2022-09-16_19-35-05.mp4",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 15 - Diffusion Done.md",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 8 - Sorting Neighbors.md",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 12 - Don't Use Averages.md",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 14 - Sinks (Finally).md",
+    "Gas Simulation Research/Gas Sim - Iterations/media/Gas Sim Pt.5.3.x.md",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/Gas Sim Iteration 1 - First Cellular Automata.md",
     "Gas Simulation Research/Gas Sim - Iterations/GasSim Iterations.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 10.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 15.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 14.md",
-    "2022-09-16.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 6.md",
-    "IndieGameBusiness Digital Events.md",
-    "assets/images/Pasted image 20220916180723.png"
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 2 - Air Sources.md",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 3 - Conservation of Matter.md",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 4 - Multiple Grid Resolutions.md"
   ]
 }

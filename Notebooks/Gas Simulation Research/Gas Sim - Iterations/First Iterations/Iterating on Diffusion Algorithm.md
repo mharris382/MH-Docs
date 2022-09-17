@@ -4,10 +4,10 @@ seealso: [[SteamController.gd]]
 
 
 ### Fourth Attempt
-[[GasSim Iteration 4]]
+[[GasSim Iteration 4 - Multiple Grid Resolutions]]
 
 ### Third Attempt
-[[GasSim Iteration 3]]
+[[GasSim Iteration 3 - Conservation of Matter]]
 ### Second Attempt
 
 The first thing I addressed after the first prototype was to try to make the gas abide by conservation of matter.  
