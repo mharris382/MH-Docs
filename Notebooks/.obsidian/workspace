@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8211d7e383ac663a",
+        "id": "c068e5fa53dd620e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GasSim Iteration 16.md",
+            "file": "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 18 - Editing the Block Tilemap.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.49999809265137
+    "width": 615.9999980926514
   },
   "right": {
     "id": "c5257ea572c340bc",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GasSim Iteration 16.md",
+                "file": "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 18 - Editing the Block Tilemap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GasSim Iteration 16.md",
+                "file": "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 18 - Editing the Block Tilemap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GasSim Iteration 16.md"
+                "file": "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 18 - Editing the Block Tilemap.md"
               }
             }
           },
@@ -134,20 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.90757751464844,
-    "collapsed": true
+    "width": 255.90757751464844
   },
-  "active": "8211d7e383ac663a",
+  "active": "16ddac1dfc6e0b2d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-09-18 13.46.23.excalidraw.md",
-    "Pasted Image 20220918140451_945.png",
-    "Pasted Image 20220918135211_243.png",
-    "GasSim Iteration 16.md",
-    "Pasted image 20220918144315.png",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 15 - Diffusion Done.md",
-    "Game Developement/Gameplayer Iterations/Game Iteration 2.1.md",
-    "Game Iterations.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 8 - Sorting Neighbors.md",
-    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 12 - Don't Use Averages.md"
+    "Gas Simulation Research/Gas Sim - Iterations/media/It18_2022-09-19_19-28-11.mp4",
+    "OBS Captures/2022-09-19_17-52-37.mp4",
+    "OBS Captures/2022-09-19_17-24-34.mp4",
+    "OBS Captures/2022-09-19_17-33-16.mp4",
+    "OBS Captures/2022-09-19_17-38-18.mp4",
+    "OBS Captures/2022-09-19_17-41-34.mp4",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 18 - Editing the Block Tilemap.md",
+    "Gas Simulation Research/Gas Sim - Iterations/GasSim Iterations.md",
+    "Gas Simulation Research/Gas Sim - Iterations/Iteration Records/GasSim Iteration 19.md",
+    "OBS Captures/I17_full of gas_2022-09-18_18-24-41.mp4"
   ]
 }

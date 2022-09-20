@@ -4,7 +4,7 @@ seealso: [[GasSim Iterations]]
 %%
 # Iteration 15: Diffusion Done
 previous iteration: [[GasSim Iteration 14 - Sinks (Finally)]]
-next iteration: [[GasSim Iteration 16]]
+next iteration: [[GasSim Iteration 16 - Sources Sizes (and 16px resolution)]]
 
 # Goal 
 Apply the algorithm used for empty cells in [[GasSim Iteration 13 - Diffusion (Almost) Done|Iteration 13]] to all gas cells.

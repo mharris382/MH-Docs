@@ -8,7 +8,7 @@ next iteration: [[GasSim Iteration 15 - Diffusion Done]]
 
 # Goal 
 ~~make diffusion behavior created in last iteration work at each level of air pressure see: [[GasSim Iteration 15 - Diffusion Done]]~~
-add sinks to the simulation.  
+**add sinks to the simulation.**  
 
 ### Question Statement
 Question: what is the easiest way to begin experimenting with the idea of sinks in the simulation
@@ -17,11 +17,7 @@ Hypothesis:  create a tilemap which extracts sink cells called SinkTileMap
 ---
 # Results/Output
 
-
-
 ## Video/Demo
-
-
 ```ad-faq
 title: Video Explaination
 collapse: open
@@ -32,9 +28,6 @@ Each sink cell (orange cell) on the grid removes 1 unit of gas from that cell ea
 
 There are two sources, one below the green light, and one following the orange character. (There are two source cells)
 ```
-
-
-Here the sinks only remove 1 unit of gas per sink cell
 ![[GasSim_Pt.14_2022-09-16_18-55-01.mp4]]
 
 ## Code

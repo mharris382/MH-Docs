@@ -4,13 +4,11 @@ seealso: [[GasSim Iterations]]
 %%
 prev: [[GasSim Iteration 8 - Sorting Neighbors]]
 next: [[GasSim Iteration 11 - Diffusion Direction (Random OR Biased)]]
-# Goal
+# GasSim Iteration 9 - Managing Chaos
 - produce a less chaotic simulation result 
-
-
 # Results
 ![[It9_Full.mp4]]
-# Comparison to previous
+##### Comparison to previous
 ![[It8_full.mp4]]
 ## Code
 ```cs
@@ -102,7 +100,6 @@ void TransferAmountAndRecordOutflow(Vector2 from, Vector2 to, int amount)
 
 
 # Reflection
-
 so this iteration produced some very interesting results.  Even though I refactored and restructed some of the code from previous iterations the primary reason for the difference in behaviours can be attributed to one small change.  Instead of always moving to lower density, this only moves to a lower density if the air difference is **greater than 1** (meaning it will not move from 11 to 10 because the difference is only 1.).  Prior to this (except for some earlier iterations) the air difference needed to be greater **or equal to 1**.  That small change resulted in this new behavior.
 
 This behavior did seem less chaotic which was the intended goal of this iterations, however it had some major problems that needed to be addressed.  First, the left side showed that the air cannot spread beyond 15 tiles.  The reason being that the source can no longer add air to the simulation because the source cell is full, **however** the air is not moving out of the source cell because the neighboring cells don't differ by a factor greater than 1.  Need to consider possible fixes to this.

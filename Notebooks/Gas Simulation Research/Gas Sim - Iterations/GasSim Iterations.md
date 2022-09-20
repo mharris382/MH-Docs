@@ -18,6 +18,10 @@ seealso: [[Gas Sim - Cellular Automata]], [[Celular Automata Fluid Theory]], [[R
 - [[GasSim Iteration 13 - Diffusion (Almost) Done]]: Diffusion (Almost) Done
 - [[GasSim Iteration 14 - Sinks (Finally)]]
 - [[GasSim Iteration 15 - Diffusion Done]]
+- [[GasSim Iteration 16 - Sources Sizes (and 16px resolution)]]
+- [[GasSim Iteration 17 - Designing Air Currents]]
+- [[GasSim Iteration 18 - Editing the Block Tilemap]]
+- [[GasSim Iteration 19]]
 
 ### Incomplete/Partial Iterations
 these iteration seems to be missing parts of the information for some reason.  I may have skipped
